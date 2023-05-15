@@ -1,4 +1,5 @@
 class Hero: # template
+    #class variable
     jumlah = 0
 
     def __init__(self,inputName,inputHealth,inputPower,inputArmor):
